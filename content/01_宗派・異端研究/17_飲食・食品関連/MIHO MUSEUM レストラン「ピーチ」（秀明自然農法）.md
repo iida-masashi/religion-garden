@@ -2,12 +2,12 @@
 aliases: [レストラン ピーチ, レストラン・ピーチ, MIHO MUSEUM レストラン, 秀明自然農法レストラン, 自然農法カフェ]
 tags: [飲食, レストラン, 自然食, 神慈秀明会, 秀明自然農法, 滋賀県甲賀市, オーガニック]
 分類: 宗教関連飲食施設 / 神慈秀明会・自然農法直営レストラン
-設置母体: "[[公益財団法人 秀明文化財団]]（MIHO MUSEUM内）"
+設置母体: "公益財団法人 秀明文化財団（MIHO MUSEUM内）"
 所在地: "〒529-1814 滋賀県甲賀市信楽町田代桃谷300 MIHO MUSEUM レセプション棟"
 料理ジャンル: "秀明自然農法・無農薬無肥料有機御膳・自然派カフェ"
 公式サイトURL: "https://www.miho.jp/facility/restaurant/"
 特色: "無農薬・無肥料・自家採種で栽培された食材、天然醸造調味料、自家製天然酵母パン"
-出典URL: "https://www.miho.jp/ ; [[src_religious_museums_restaurants]]"
+出典URL: "https://www.miho.jp/ ; src_religious_museums_restaurants"
 検証日: "2026-08-15"
 evidence_type: official_database
 confidence: 5
@@ -35,7 +35,7 @@ confidence: 5
 ## 2. 史料・参考文献
 
 1. MIHO MUSEUM レストラン案内 https://www.miho.jp/facility/restaurant/
-2. [[src_religious_museums_restaurants]]：宗教団体関連美術館・文化施設・自然食レストラン 史料記録
+2. src_religious_museums_restaurants：宗教団体関連美術館・文化施設・自然食レストラン 史料記録
 
 ---
 

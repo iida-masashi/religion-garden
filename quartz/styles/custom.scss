@@ -72,28 +72,53 @@ pre:has(> code.mermaid) {
   border: none;
 }
 
-// Fix Mermaid diagram text contrast and styling
-.mermaid {
-  // Prevent base.scss (text { fill: var(--darkgray); color: var(--darkgray); })
-  // from overriding node text colors on dark backgrounds
+// Fix Mermaid diagram text contrast and styling (Standard & Expanded Modal Zoom views)
+.mermaid,
+#mermaid-container,
+#mermaid-space,
+.mermaid-content {
+  // Prevent base.scss from overriding node text colors on dark backgrounds
   svg text {
     fill: unset;
   }
 
-  // Force clear white text for common dark node classes
-  .node.root,
-  .node.main,
-  .node.expelled,
-  .node.cult,
-  .node.mil,
-  .node.gov,
-  .node.branch {
-    .nodeLabel,
-    span,
-    p,
-    text {
+  // Force clear white text for any node with dark background classes
+  .node {
+    &[class*="ancient"],
+    &[class*="sect"],
+    &[class*="event"],
+    &[class*="influence"],
+    &[class*="root"],
+    &[class*="main"],
+    &[class*="expelled"],
+    &[class*="cult"],
+    &[class*="mil"],
+    &[class*="gov"],
+    &[class*="branch"],
+    &[class*="dark"] {
+      .nodeLabel,
+      .nodeLabel *,
+      span,
+      p,
+      div,
+      text {
+        color: #ffffff !important;
+        fill: #ffffff !important;
+        -webkit-text-fill-color: #ffffff !important;
+      }
+    }
+  }
+
+  // Defend explicitly declared white text in node labels (including <div style='... color:#ffffff;'>)
+  [style*="color:#ffffff"],
+  [style*="color: #ffffff"],
+  [style*="color:white"],
+  [style*="color: white"] {
+    &,
+    * {
       color: #ffffff !important;
       fill: #ffffff !important;
+      -webkit-text-fill-color: #ffffff !important;
     }
   }
 

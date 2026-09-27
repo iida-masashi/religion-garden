@@ -66,18 +66,18 @@ confidence: 5
 
 ```mermaid
 graph TD
-    subgraph PL["【PL教団 富田林大本庁コンプレックス】"]
+    subgraph PL["<div style='color:#ffffff;'>【PL教団 富田林大本庁コンプレックス】</div>"]
         T["大平和祈念塔<br>（シンボル・慰霊塔）"]
         H["PL教会本庁<br>錬成会館（大型食堂）"]
         G["PL学園・ゴルフ場<br>（クラブハウスレストラン）"]
     end
 
-    subgraph MED["【医療・厚生インフラ】"]
-        P["医療法人精和会 PL病院"]
+    subgraph MED["<div style='color:#ffffff;'>【医療・厚生インフラ】</div>"]
+        P["<div style='color:#ffffff;'>医療法人精和会 PL病院</div>"]
         CR["院内カフェレストラン<br>（一般開放）"]
     end
 
-    subgraph USR["【利用者・社会】"]
+    subgraph USR["<div style='color:#ffffff;'>【利用者・社会】</div>"]
         D["人間ドック・検診受診者"]
         O["外来患者・付き添い家族"]
         L["富田林市・南河内の地域住民"]

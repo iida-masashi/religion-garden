@@ -65,21 +65,21 @@ GINZA BOOK CAFEおよびSHIBUYA BOOK CAFEでは、一般的な新宗教の道場
 
 ```mermaid
 graph TD
-    subgraph HS["【幸福の科学グループ】"]
-        R["宗教法人 幸福の科学<br>（総本山・精舎・支部）"]
-        PUB["幸福の科学出版（株）<br>（経典・霊言集・絵本・雑誌）"]
-        ACA["学校法人 幸福の科学学園<br>（那須本校・関西校 / 全寮制）"]
+    subgraph HS["<div style='color:#ffffff;'>【幸福の科学グループ】</div>"]
+        R["<div style='color:#ffffff;'>宗教法人 幸福の科学<br>（総本山・精舎・支部）</div>"]
+        PUB["<div style='color:#ffffff;'>幸福の科学出版（株）<br>（経典・霊言集・絵本・雑誌）</div>"]
+        ACA["<div style='color:#ffffff;'>学校法人 幸福の科学学園<br>（那須本校・関西校 / 全寮制）</div>"]
     end
 
     subgraph FOOD["【飲食・フードサービス展開】"]
-        GBC["GINZA BOOK CAFE<br>（銀座2丁目・支部併設）"]
-        SBC["SHIBUYA BOOK CAFE<br>（渋谷鶯谷町・精舎併設）"]
-        HK["（株）ハートフルキッチン<br>（学園給食・寮食・Yショップ）"]
+        GBC["<div style='color:#ffffff;'>GINZA BOOK CAFE<br>（銀座2丁目・支部併設）</div>"]
+        SBC["<div style='color:#ffffff;'>SHIBUYA BOOK CAFE<br>（渋谷鶯谷町・精舎併設）</div>"]
+        HK["<div style='color:#ffffff;'>（株）ハートフルキッチン<br>（学園給食・寮食・Yショップ）</div>"]
     end
 
-    subgraph USR["【対象・利用者】"]
-        PUB_U["一般市民・都市ワーカー<br>（電源・Wi-Fi・読書）"]
-        STUD["学園生徒・信徒子弟<br>（安心安全な食育・合宿）"]
+    subgraph USR["<div style='color:#ffffff;'>【対象・利用者】</div>"]
+        PUB_U["<div style='color:#ffffff;'>一般市民・都市ワーカー<br>（電源・Wi-Fi・読書）</div>"]
+        STUD["<div style='color:#ffffff;'>学園生徒・信徒子弟<br>（安心安全な食育・合宿）</div>"]
     end
 
     R -->|"都市拠点展開"| GBC

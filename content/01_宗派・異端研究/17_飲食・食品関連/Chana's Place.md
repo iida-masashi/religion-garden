@@ -3,7 +3,7 @@ aliases: ["Chana's Place", "Chana's Place Tokyo Kosher Restaurant", chanasplace.
 tags: [宗教, 施設, 飲食店, コーシャ, ユダヤ教, 宗教学]
 分類: 教理・概念 / 核心史料 / 重大事件 / 建築空間
 成立時期_発生時期: "{{未確認（開業年不明）}}"
-主要主体_人物: "[[メンディ・スダケヴィッチ]]（監修ラビ）"
+主要主体_人物: "メンディ・スダケヴィッチ（監修ラビ）"
 関連教団: "[[Chabad Lubavitch of Japan Tokyo]]"
 関連拠点: "東京都内（詳細番地未公開、公式サイトに番地表記なし）"
 出典URL: "https://chanasplace.com/"
@@ -35,7 +35,7 @@ confidence: 3
 | :--- | :--- |
 | **名称・件名** | Chana's Place（Chana's Place Tokyo Kosher Restaurant） |
 | **成立・発生年月日** | 未確認 |
-| **主要主体・人物** | [[メンディ・スダケヴィッチ]]（監修ラビ）。店名は共同設立者チャナ・スダケヴィッチに由来 |
+| **主要主体・人物** | メンディ・スダケヴィッチ（監修ラビ）。店名は共同設立者チャナ・スダケヴィッチに由来 |
 | **関連現場・遺構所在地** | 東京都内（詳細番地は公式サイト非公開） |
 | **主要史料・文献** | Chana's Place公式サイト（chanasplace.com） |
 
@@ -66,7 +66,7 @@ Chana's Placeは、[[Chabad Lubavitch of Japan Tokyo]]の主任ラビである�
 ## 6. 関連教団・関連人物・関連概念
 
 - [[Chabad Lubavitch of Japan Tokyo]]（本店の監修元）
-- [[メンディ・スダケヴィッチ]]（監修ラビ）
+- メンディ・スダケヴィッチ（監修ラビ）
 - [[David's Deli]]（休業後の後継案内先）
 
 ---
