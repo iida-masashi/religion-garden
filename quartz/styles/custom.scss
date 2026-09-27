@@ -71,3 +71,35 @@ pre:has(> code.mermaid) {
   background: transparent;
   border: none;
 }
+
+// Fix Mermaid diagram text contrast and styling
+.mermaid {
+  // Prevent base.scss (text { fill: var(--darkgray); color: var(--darkgray); })
+  // from overriding node text colors on dark backgrounds
+  svg text {
+    fill: unset;
+  }
+
+  // Force clear white text for common dark node classes
+  .node.root,
+  .node.main,
+  .node.expelled,
+  .node.cult,
+  .node.mil,
+  .node.gov,
+  .node.branch {
+    .nodeLabel,
+    span,
+    p,
+    text {
+      color: #ffffff !important;
+      fill: #ffffff !important;
+    }
+  }
+
+  // Ensure high contrast node labels across themes
+  .nodeLabel {
+    line-height: 1.4;
+  }
+}
+
