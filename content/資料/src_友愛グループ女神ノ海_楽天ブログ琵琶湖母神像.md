@@ -1,0 +1,24 @@
+---
+title: "近江を歩く2026 ① ビワイチの謎解き（近江今津 高島市） - 徒歩でビワイチ：楽天ブログ"
+source: "https://plaza.rakuten.co.jp/tohobiwa/diary/202602140000/"
+created_at: "2026-11-15T15:12:23Z"
+tags:
+  - "web_clip"
+  - "general"
+author: "Morimori"
+published_at: "2026-10-25"
+---
+
+|             |  |  | 
+
+|  | 
+
+| [149956](https://plaza.rakuten.co.jp) ![ランダム](images/random.gif)  |  |  |  |  | 
+| [HOME](https://plaza.rakuten.co.jp/tohobiwa/) \| [DIARY](https://plaza.rakuten.co.jp/tohobiwa/diaryall/) \| [PROFILE](https://plaza.rakuten.co.jp/tohobiwa/profile/) | [【フォローする】](http://my.plaza.rakuten.co.jp/?func=diary&act=okini&sub_act=add_from&TargetID=5d9ftv) [【ログイン】](http://my.plaza.rakuten.co.jp/) |  |  |  | 
+
+![徒歩でビワイチ](images/a35b53fe3d74df29b273a07f4316bee85386928c.01.9.9.3.jpeg)
+
+
+徒歩でビワイチ
+
+|     全て  \| [ビワイチ](https://plaza.rakuten.co.jp/tohobiwa/diary/?ctgy=0) \| [番外](https://plaza.rakuten.co.jp/tohobiwa/diary/?ctgy=3) \| [滋賀の名所・旧跡・観光地](https://plaza.rakuten.co.jp/tohobiwa/diary/?ctgy=4) \| [BIWA-TEKU（ビワテク）](https://plaza.rakuten.co.jp/tohobiwa/diary/?ctgy=2) **2026/02/14** ![XML](images/icon_rss.gif)        テーマ：[ウォーキング(5233)](https://plaza.rakuten.co.jp/thm/59523/) カテゴリ：[滋賀の名所・旧跡・観光地](https://plaza.rakuten.co.jp/tohobiwa/diary/?ctgy=4) 徒歩でビワイチ 気ままな歩き録。 ![](images/84f596ef7049587c80cdd9327e56c39c163696e5.01.9.9.3.jpeg) （高島市新旭 県道333号線沿いにある「琵琶湖母神像」） 2026年2月14日　高島市 最高気温10度 最低気温2度 まだまだ寒いが、今日は春の訪れが近いと思えるような温かな一日。 今年初めてのウォーキングブログ。 今年も「近江を歩く」と題して滋賀県内を歩いて巡ろうと思う。 [2度の徒歩ビワイチ](https://plaza.rakuten.co.jp/tohobiwa/diary/ctgylist/?ctgy=0)で謎のままになっていたところに行ってみた。 ずっと気になっていた場所へ。 ということで、今回、冒頭の写真の像がある近江今津を歩いてみた。 冒頭の写真は、高島市新旭饗庭の県道333号線沿いに建立されている 「琵琶湖母神像」と記された銅像。 2023年・2025年と2度この銅像の前を歩いたが、道路沿いで 何もない空き地のような場所、しかし、廻りは雑木に囲まれていて 突如として現れる感じの銅像。 その後、Web検索しても謂れなど何も得られる情報はなく、オイラの中では ビワイチ最大の謎モニュメントとしてずっと気になっていた地点。 7:00  [JR近江今津駅](https://eki.jr-odekake.net/top?id=0611215) 去年の5月以来の近江今津駅。 ![](images/04bb14b1fa1d0da1bd95ff4318aa1ee436c0f243.01.9.9.3.jpeg) 謎の人魚像は駅から南方へ約2kmの地点。 今回は謎解きとともに、近江今津の街並みを  [BIWA-TEKUモバイルスタンプラリー](https://www.biwateku.jp/) も廻りながらのウォーキング。 さぁ歩こう。 駅から琵琶湖に向かって歩いて約400ｍ。 近江今津の [遊覧船乗り場](https://www.biwakokisen.co.jp/access/imazu/)から眺めた今日の琵琶湖。 雲の切れ間から朝日が覗く。 ![](images/be3c70a59774a5ebd66b908a29324e6413a6a5fe.01.9.9.3.jpeg) 道すがらの二ッ岩の鳥居。 ![](images/b12fba174c7e44f66582c932531fe4d77e83d442.01.9.9.3.jpeg) 今年の琵琶湖は水不足で随分減水しているらしい。 だがしかし、沖に沈むと謂われる二ッ石は見えなかった。 7:30 今回の目的の地「母神像」前に到着 ![](images/ef4c2df908aecf802f35b3bd9af87ef8c16b07db.01.9.9.3.jpeg) 琵琶湖を背に西を向いて建っている。 朝日が逆光となりやや神々しくもある。 像の前の立て看板。 文字が消えて読めない。 たしか2023年ビワイチの時はまだうっすら読めたような記憶があるのだが･･･ 当時写真に収めておけば良かったか。読んだ内容もまったく記憶にない。 あの時はビワイチ一番の長距離ウォークで疲れ果て銅像をゆっくり眺める余裕がなかったからな。 ![](images/b6361d11212de2a34e877df9318fe0689fc98109.01.9.9.3.jpeg) 周辺は雑木に覆われているが、像の後ろに廻ってみると、謂れを示すらしき 銅板が嵌め込まれていた。 ![](images/5e867ddd3117cf4c9ddf237b9ced8f793ab28ca5.01.9.9.3.jpeg) 銅板の文言 地球ノオアシス、琵琶湖ニ 古キ伝説ニ依リ 母神像ヲ建立ス 願ハクバ江湖ノ光リト ナリ給ハンコトヲ 平成元年参月吉日 友愛グループ 女神ノ海 藤田妃見子 建立は平成元年（1989年） 37年前だ。 それほど古いようには見えない。定期的に清掃が施されているのだろうか。 像の前にはワンカップのお酒が無造作に供えられている。 友愛グループ女神ノ海 Ｗeb検索してみると、小規模な宗教グループのようだ･･･ うーむ･･･ なるほど。 謂れなどが分からないわけだな。 いずれにしても、銅板の文言から鑑みると 世の中を照らし平和を願う想いを込めての建立ということだろう。 実際、サイクリストやライダーやウォーカー達を静かに見守って くれているようにも思うし、ビワイチを楽しむ人々のチェックポイント として密かな名物スポットでもあるだろう。 像の下から見上げてみた。 ![](images/20ba97c40d1d09c727f0b1300d4af2e6569d3eca.01.9.9.3.jpeg) 一応の目的は果たした。これ以上の深掘りは無しにして 後は近江今津市街に戻り BIWA-TEKUスタンプラリー をこなして帰ろう。 前にも訪れたけど、ヴォーリズ通りの建物。 今津ヴォーリズ資料館（ [旧百三十三銀行 今津支店](https://vories-info.com/architecture/290/)） ![](images/b82918ed8260796b8284ba64237ab00e06b11eb7.01.9.9.3.jpeg) 今津教会・今津幼稚園（ [旧今津基督教会館](https://vories-info.com/architecture/291/)） ![](images/048c22a985dca08df423a22dae0b783c4e40f9e5.01.9.9.3.jpeg) 旧 [今津郵便局](https://vories-info.com/architecture/292/) ![](images/1d8ed943a0501f29c5eec2df3293ed45ccef57cf.01.9.9.3.jpeg) スタンプラリーコンプリートして 9:00 に近江今津駅に帰着。 ![](images/cd37849d79cd3ed3cab84b5a5f8281f40d653591.01.9.9.3.jpeg) 歩いた距離7.0km 歩いた歩数9,194歩 歩いたコース ![](images/70c9f4dbffdebd6375893f54a33d2229ed46525e.01.9.9.3.jpeg) 近江今津ウォーキングが思ったよりも早く終えられたので 安曇川駅にも立ち寄ってスタンプラリーした。 ![](images/116c1a5ed382eb20b196769ba12db9b31e1373cd.01.9.9.3.jpeg) こちらは、歩いた距離6.2km 歩いた歩数6,360歩 両方合せて、今日歩いた距離13.2km 歩いた歩数15,554歩 お昼は、JR石山駅まで戻って、もんじゃ焼・お好み焼のお店  [どてっぱん](https://doteppan.com/location/%E7%9F%B3%E5%B1%B1%E9%A7%85%E5%89%8D%E5%BA%97) へ。 明太もちチーズもんじゃ で昼呑みを楽しみました。 おいしかったです。ごちそうさま。 ![](images/ab8b91403b0ca331e8d223b40b6b618778e32562.01.9.9.3.jpeg) 今年初めての "気ままな歩き録" はビワイチ謎解きウォーキングでした。 おつかれちゃん。 ◆◆参考歩き録◆◆ 2023年ビワイチ まとめ記事  [徒歩でビワイチ⑭](https://plaza.rakuten.co.jp/tohobiwa/diary/202309180000/) 2025年ビワイチ まとめ記事  [徒歩でビワイチリターンズ(13)](https://plaza.rakuten.co.jp/tohobiwa/diary/202505280000/) 近江を歩く2025 まとめ記事  [徒歩でビワイチ 番外5 2025年歩き録まとめ](https://plaza.rakuten.co.jp/tohobiwa/diary/202512280000/) お気に入りの記事を「いいね！」で応援しよう ![TWITTER](images/btn_tweet_x.png) Last updated        2026/10/25　08:28:51 AM       コメント(0)                 \| [コメントを書く](https://plaza.rakuten.co.jp/tohobiwa/diary/202602140000/comment/write/#commentwrite) \[滋賀の名所・旧跡・観光地\] カテゴリの最新記事 |
