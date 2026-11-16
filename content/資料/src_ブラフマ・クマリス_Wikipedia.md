@@ -256,7 +256,7 @@ In 1980, the Brahma Kumaris became registered as a [nongovernmental organisation
 
 A photo of the Brahma Kumaris during their relocation from [Karachi](https://en.wikipedia.org/wiki/Karachi "Karachi") to [Mount Abu](https://en.wikipedia.org/wiki/Mount_Abu "Mount Abu") [Rajasthan](https://en.wikipedia.org/wiki/Rajasthan "Rajasthan") in May 1950
 
-The leadership and membership of the BK movement remains primarily female: in the UK, only one-third of the forty-two centres are run by men, and women comprise eighty percent of the membership. As of February 2015[[update]](https://en.wikipedia.org/w/index.php?title=Brahma_Kumaris&action=edit), centres are mostly in followers' own homes with a tendency toward middle- or upper-class membership. Estimates for its worldwide membership range from thirty-five thousand in 1993 to four hundred thousand in 1998 to four hundred fifty thousand in 2000; however, many adherents are probably not completely committed to the group's worldview.
+The leadership and membership of the BK movement remains primarily female: in the UK, only one-third of the forty-two centres are run by men, and women comprise eighty percent of the membership. As of February 2015update(https://en.wikipedia.org/w/index.php?title=Brahma_Kumaris&action=edit), centres are mostly in followers' own homes with a tendency toward middle- or upper-class membership. Estimates for its worldwide membership range from thirty-five thousand in 1993 to four hundred thousand in 1998 to four hundred fifty thousand in 2000; however, many adherents are probably not completely committed to the group's worldview.
 
 ## Brahma Kumaris Wings
 

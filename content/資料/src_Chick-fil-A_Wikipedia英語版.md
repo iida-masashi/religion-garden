@@ -488,7 +488,7 @@ Dwarf House and Truett's Grill in [Griffin, Georgia](https://en.wikipedia.org/wi
 
 Chicken sandwich and waffle fries from Chick-fil-A
 
-The Cathy family has run Chick-fil-A since the restaurant chain's founding in 1946; as of 2025[[update]](https://en.wikipedia.org/w/index.php?title=Chick-fil-A&action=edit) it was being led by the third generation of the Cathy family.
+The Cathy family has run Chick-fil-A since the restaurant chain's founding in 1946; as of 2025update(https://en.wikipedia.org/w/index.php?title=Chick-fil-A&action=edit) it was being led by the third generation of the Cathy family.
 
 ### List of chairmen
 
